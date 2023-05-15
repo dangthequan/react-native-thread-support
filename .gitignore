@@ -41,6 +41,18 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+example/node_modules/
+
+# Build directories
+android/build/
+ios/build/
+ios/Pods/
+
+example/android/build/
+example/android/app/build/
+example/ios/build/
+example/ios/Pods/
+
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
@@ -128,3 +140,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+*.lock
+package-lock.json
+example/package-lock.json
+
+.github/
+*.xcuserdatad/
