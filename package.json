@@ -41,7 +41,10 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/dangthequan/react-native-thread-support",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dangthequan/react-native-thread-support.git"
+  },
   "author": "dangthequan <dangthequan@live.com> (https://github.com/dangthequan)",
   "license": "MIT",
   "bugs": {
