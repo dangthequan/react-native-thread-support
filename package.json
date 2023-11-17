@@ -1,7 +1,7 @@
 {
   "name": "react-native-thread-support",
   "version": "0.0.1",
-  "description": "test",
+  "description": "The tiny thread library supports running code in background thread & UI thread on react native platform.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
